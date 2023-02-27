@@ -38,5 +38,10 @@ https://www.youtube.com/watch?v=-Mt2FdJjVno&ab_channel=nikito
 6) Temporary array that will hold a string read with the amount of BUFFER_SIZE.
 7) Will be joined with saved string.
 
+### Testers
+To test the code we're going to be using the Francinette  Tester. There are some good others but I'll only be covering this one.
+
+Check the following link to know more about this tester: https://github.com/xicodomingues/francinette
+
 ## Final Grade
 ![image](https://user-images.githubusercontent.com/103336451/221604380-1667b5b0-156b-4b7a-a5ba-202a9baa3b3e.png)
